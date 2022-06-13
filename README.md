@@ -13,7 +13,7 @@
 * Swioer
 
 # Website
-Link [Show](https://tomorrowwebsite.github.io/Ecommerce-Watches/dist/index.html)
+Link [Show](https://learncodingeasy.github.io/Ecommerce-Watches/dist/index.html)
 
 # Previw
-![This is an image](https://raw.githubusercontent.com/tomorrowWebsite/Ecommerce-Watches/main/dist/preview.png)
+![This is an image](https://raw.githubusercontent.com/learncodingeasy/Ecommerce-Watches/main/dist/preview.png)
