@@ -1,7 +1,5 @@
 # Ecommerce Watches
-```
-npm install
-```
+
 
 * Responsive Watches Website ⌚
 # Language
